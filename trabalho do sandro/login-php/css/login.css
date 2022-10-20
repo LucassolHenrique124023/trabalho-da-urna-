@@ -1,0 +1,43 @@
+html,body {
+  font-family: 'Open Sans', serif;
+  font-size: 14px;
+  font-weight: 300;
+}
+.hero.is-success {
+  background: #f2f7fa;
+}
+.hero .nav, .hero.is-success .nav {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+input {
+  font-weight: 300;
+}
+p {
+  font-weight: 700;
+}
+.link {
+  display: block;
+  background-color: blueviolet;
+  margin-block: 20px;
+  border-radius: 6px;
+  height: 80px;
+}
+.texth3 {
+  color: #fff;
+  text-align: center!important;
+  font-weight: 700;
+  font-family:BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+  text-shadow: 10px;
+  padding-top: 15px;
+}
+.texth2 {
+  color: #fff;
+  text-align: center!important;
+  font-weight: 700;
+  font-family:BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+  text-shadow: 10px;
+  padding-top: 1px;
+  text-decoration: double;
+  
+}
